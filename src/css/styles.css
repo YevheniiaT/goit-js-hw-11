@@ -42,6 +42,10 @@ img {
   justify-content: center;
   gap: 10px;
 }
+.btn {
+  color: rgb(243, 243, 248);
+  background-color: rgb(35, 175, 194);
+}
 .gallery {
   display: flex;
   flex-wrap: wrap;
