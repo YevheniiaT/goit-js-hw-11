@@ -41,6 +41,7 @@ img {
   align-items: center;
   justify-content: center;
   gap: 10px;
+  
 }
 .btn {
   color: rgb(243, 243, 248);
@@ -63,7 +64,9 @@ img {
   margin: 0 auto;
   cursor: pointer;
 }
-
+.block {
+  color: rgb(1, 1, 18);
+}
 .thumb-block {
   display: flex;
   gap: 10px;
